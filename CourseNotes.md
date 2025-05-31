@@ -7,4 +7,7 @@
 - send_email.py used from PMC_02_Showcase.
   - See PMC_02_Showcase/CourseNotes.md L219 for setup of app passwords
 
+### Day 28
+- add 5 refinements
+
 #### Lnnn 
