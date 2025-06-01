@@ -18,6 +18,26 @@
 
 ## mikeb_M
 - Started with final version of course_C
+- [ X ] Update from_data to today
+- [ X ] put date into "today's news" subject line
+- [ X ] add filter_by (currently 'Trump')
+- [ X ] experiment with adding 'author' and 'publisher' line
+  - [ X ] find out who all the 'publishers' are. Instead just count them.
+- [ X ] add when published (publishedAt)
+- [ X ] experiment with adding 'content' line
+- [   ] explore using searchin fields (title,description,content)
+- [ X ] add article_limit for output stories count
+- [   ]consider setting up feature boundaries for experimenting
+  - consider using a class to implement the boundaries
+    - basic and enhanced
+    - trigger with cli features set to basic or enhanced 
+- [   ] add multiple email address(s) 
+- [   ] setup defaults in settings dictionary
+- [   ] add cli args using argparse
+  - topic
+  - filter_by
+  - article_limit
+  - email address(s)
 
 ## Claude_A
 
