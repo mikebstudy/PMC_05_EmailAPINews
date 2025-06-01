@@ -40,4 +40,15 @@
   - email address(s)
 
 ## Claude_A
+- Generated 4 versions using Claude Sonnet 4
+- Worked quite well
+- Generated email, but gave it the email code
+- The output format was much better than my output
+- I created code that would give me a list of sources if I wanted them.
+- Claude's logic assumptions had to be checked
+  - Only the sources were checked (by accident) and found wanting
 
+## Done
+- More could be done in the mikeb_M and Claude_A sections
+  - But this was sufficient to gain a lot of insight and practice
+- So the project is considered done enough
